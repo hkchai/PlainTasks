@@ -2,8 +2,7 @@
 *Credit*: Forked from [PlainTasks](https://github.com/aziz/PlainTasks). 
 
 
-#### [HKC] NOTE: The code and features are different. 
-Code has been tested under the follow set-up:
+#### [HKC] NOTE: Code has been tested under the follow set-up:
 - macOS Catalina (Version 10.15.3)
 - Sublime 3 (Build 3211)
 
@@ -22,9 +21,9 @@ For more portability you can use `todolist.txt` either as a filename or as suffi
 ## Usage
 **NOTE:** In Windows or Linux use <kbd>ctrl</kbd> instead of <kbd>⌘</kbd>
 
-☐ *NEW* <kbd>⌘ + enter</kbd>: add new task below cursor
+☐ *NEW* <kbd>⌘ + enter</kbd>: add new task _below_ the cursor and position the cursor to the newly created task
 
-☐ *NEW* <kbd>⌘ + i</kbd>: add new task above cursor
+☐ *NEW* <kbd>⌘ + i</kbd>: add new task _above_ cursor and position the cursor to the newly created task
 
 ☐ <kbd>⌘ + d</kbd>: toggle task as completed.
 
