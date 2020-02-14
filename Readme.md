@@ -2,14 +2,14 @@
 
 
 #### [HKC] What's New?
-* Ability to add new task below or above the cursor
+* Ability to add new task below or above the current task
 
 Code has been tested under the follow set-up:
 - macOS Catalina (Version 10.15.3)
 - Sublime 3 (Build 3211)
 
 An opinionated todo-list plugin for Sublime Text (2 & 3) editor
-![](http://cl.ly/image/1q100Q212o2Q/ss.png)
+![](https://github.com/hkchai/PlainTasks/blob/master/messages/PlainTasks_How_To.png)
 
 ## Installation
 To install this plugin, you will need to clone this repo and put it under your Sublime `Packages` directory. The version in Package Control is of the original author's.
@@ -26,9 +26,9 @@ Next, bring up the command palette (it’s <kbd>⌘ + shift + p</kbd> in OS X an
 ## Usage
 **NOTE:** In Windows or Linux use <kbd>ctrl</kbd> instead of <kbd>⌘</kbd>
 
-☐ *NEW* <kbd>⌘ + enter</kbd>: add new task _below_ the cursor and position the cursor to the newly created task
+☐ *NEW* <kbd>⌘ + enter</kbd>: add new task _below_ the cursor (i.e. the next line) and position the cursor to the newly created task
 
-☐ *NEW* <kbd>⌘ + i</kbd>: add new task _above_ the cursor and position the cursor to the newly created task
+☐ *NEW* <kbd>⌘ + i</kbd>: add new task _above_ the cursor (i.e. the previous line) and position the cursor to the newly created task
 
 ☐ <kbd>⌘ + d</kbd>: toggle task as completed.
 
