@@ -1,8 +1,10 @@
 ## [PlainTasks](https://github.com/hkchai/PlainTasks) 
 
 
-#### [HKC] What's New?
+#### [HKC] What's New (Feb 19, 2020)?
 * Ability to add new task below or above the current task
+* New coloring for *created* and *due*
+* A new sub-header (caveat: only updated the 'tasks-solarized-light' theme, but the syntaxes are all available and exposed, so adding them in other themes is straight-forward)
 
 Code has been tested under the follow set-up:
 - macOS Catalina (Version 10.15.3)
